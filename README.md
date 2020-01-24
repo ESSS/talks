@@ -14,3 +14,5 @@ Que Teste Foi Esse? py.test para desenvolvimento fullstack by [Igor T. Ghisi](ht
 Conda Talk by [Igor T. Ghisi](https://github.com/igortg) [[Slides](https://gitpitch.com/ESSS/conda-talk#/)]
 
 A quick introduction to Pytest for unitest users by [Bruno Oliveira](https://github.com/nicoddemus/) [[Slides](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)]
+
+Integrando Python e C++ com pybind11 by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides](https://github.com/tarcisiofischer/examples-and-demos/blob/master/Integrando%20Python%20e%20C%2B%2B%20com%20pybind11.pdf)]
