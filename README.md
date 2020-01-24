@@ -16,3 +16,11 @@ Conda Talk by [Igor T. Ghisi](https://github.com/igortg) [[Slides](https://gitpi
 A quick introduction to Pytest for unitest users by [Bruno Oliveira](https://github.com/nicoddemus/) [[Slides](https://gitpitch.com/nicoddemus/pytest-for-unittest-users)]
 
 Integrando Python e C++ com pybind11 by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides](https://github.com/tarcisiofischer/examples-and-demos/blob/master/Integrando%20Python%20e%20C%2B%2B%20com%20pybind11.pdf)]
+
+## Others Events
+
+Método do Volumes Finitos by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides]](https://github.com/tarcisiofischer/examples-and-demos/blob/master/M%C3%A9todo%20dos%20Volumes%20Finitos.pdf)
+
+Floating Point by by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides]](https://github.com/tarcisiofischer/examples-and-demos/blob/master/Floating%20Point%20-%20Full%20presentation.pdf)
+
+Dynamic Memory Allocation by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides]](https://github.com/tarcisiofischer/examples-and-demos/blob/master/Dynamic%20Memory%20Allocation.pdf)
