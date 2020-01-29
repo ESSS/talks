@@ -17,6 +17,11 @@ A quick introduction to Pytest for unitest users by [Bruno Oliveira](https://git
 
 Integrando Python e C++ com pybind11 by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides](https://github.com/tarcisiofischer/examples-and-demos/blob/master/Integrando%20Python%20e%20C%2B%2B%20com%20pybind11.pdf)]
 
+## Python Brasil[14]
+
+Explorando o Petróleo: Uma análise exploratória dos dados públicos da ANP by Diego Volpatto. This talk was presented also
+at TDC 2019 [[Repo]](https://github.com/volpatto/anp-data-analysis) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volpatto/anp-data-analysis/master)
+
 ## Others Events
 
 Método do Volumes Finitos by [Tarcísio Fischer](https://github.com/tarcisiofischer) [[Slides]](https://github.com/tarcisiofischer/examples-and-demos/blob/master/M%C3%A9todo%20dos%20Volumes%20Finitos.pdf)
